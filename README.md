@@ -1,4 +1,4 @@
-# React + TypeScript + Vite + Material UI Template
+# React + TypeScript + Vite + Material UI + Zustand Template
 
 Created by running commands below:
 
@@ -7,6 +7,7 @@ Created by running commands below:
 - `yarn add @mui/material @emotion/react @emotion/styled`
 - `yarn add @mui/icons-material @mui/material @emotion/styled @emotion/react`
 - `yarn add react-router-dom @types/react-router-dom`
+- `yarn add zustand`
 
 # Additionally, have been added:
 
