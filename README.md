@@ -8,6 +8,10 @@ Created by running commands below:
 - `yarn add @mui/icons-material @mui/material @emotion/styled @emotion/react`
 - `yarn add react-router-dom @types/react-router-dom`
 - `yarn add zustand`
+- `yarn add -D @commitlint/config-conventional @commitlint/cli`
+- `yarn add husky --dev`
+- `yarn husky install`
+- `npx husky add .husky/commit-msg  'npx --no -- commitlint --edit ${1}'`
 
 # Additionally, have been added:
 
@@ -15,6 +19,7 @@ Created by running commands below:
 - nginx.conf
 - .prettierrc
 - etc.
+- added husky + commitlint
 
 # Deploying commands (examples):
 
