@@ -21,6 +21,12 @@ Created by running commands below:
 - etc.
 - added husky + commitlint
 
+# Running Dev Server
+
+If you have pnpm installed, use `pnpm install`. pnpm-lock.yaml file is included.
+
+You can still use `npm install` or `yarn install` (recommended) if no pnpm installed on the PC.
+
 # Deploying commands (examples):
 
 ## with docker-compose.yml file
